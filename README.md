@@ -1,11 +1,9 @@
-#* RealHouzing*
+ RealHouzing
 This is web based application developed for Realhouzing related based website in india
-### This is web based RealHouzing has been developed for the accomplishment of future ready talent internship program launched by microsoft,futureskills prime,github and ey
-** project link-https://w3layouts.com/template/real-houzing-a-real-estate-website-template/ for demo video link
+This is web based RealHouzing has been developed for the accomplishment of future ready talent internship program launched by microsoft,futureskills prime,github and ey
+project link- for demo video link
 screenshot of H0me:
-![Uploading Screenshot (1).png…]()
-
-
+![Screenshot (1)](https://user-images.githubusercontent.com/119285708/204969331-a9946448-353e-4214-ae5c-57ed817ed5f5.png)
 screenshot of about:
 ![Screenshot (3)](https://user-images.githubusercontent.com/119285708/204577904-4bfa6b15-04a5-491f-a42b-5725b5f1c84f.png)
 
